@@ -1,15 +1,15 @@
-<h1>Hi, I'm Alejandro! <br/><a href="https://github.com/a13jndro"> Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </a>
+<h1>Hi, I'm Alejandro! Computer Science Student | Electrical Engineer | Software Developer | Data Analyst 
 
-<h2>💻 Python Project</h2>
+<h3>🐍 Python Projects</h3>
 
-- [Spotipy Database](https://github.com/a13jndro/dataAnalysisProjectC278)
+- [Spotify Database](https://github.com/a13jndro/dataAnalysisProjectC278)
 
-<h2>📃 Certifications</h2>
+<h3>📃 Certifications</h3>
   
 - [Python Issued by Wiley Edge](https://www.credly.com/badges/0e7e7ab7-17fb-4289-b5e0-51fbb3f218ed/public_url)
 - [Career Preparation Workshop Issued by CISCO](https://www.credly.com/badges/4721a09c-afcb-40d2-9b99-beb48c165615/public_url)
 
-<h2> 🔗 Connect with me </h2>
+<h3> 🔗 Connect with me </h3>
 
 [<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
