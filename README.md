@@ -14,6 +14,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/bs-cs-alejandro-m
+[stackoverflow]: https://stackoverflow.com/users/16946785/alejandro-avila
 
 <!--
 **al3jndro/al3jndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
