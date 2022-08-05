@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alejandro! <br/><a href="https://github.com/a13jndro"> Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </a>
 
-<h2>💻 Software Development Projects</h2>
+<h2>💻 Data Analysis Project</h2>
 
 - [Spotipy Database](https://github.com/a13jndro/dataAnalysisProjectC278)
 
