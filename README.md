@@ -2,7 +2,7 @@
 
 <h2>💻 Software Development Projects</h2>
 
-- [Clasify Music Genre using Spotipy](https://github.com/a13jndro/dataAnalysisProjectC278)
+- [Spotipy Database](https://github.com/a13jndro/dataAnalysisProjectC278)
 
 <h2>📃 Certifications</h2>
   
