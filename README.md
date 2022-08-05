@@ -1,4 +1,5 @@
-<h1>Hi, I'm Alejandro! Computer Science Student | Electrical Engineer | Software Developer | Data Analyst 
+<h1>Hi, I'm Alejandro!</h1>
+<b>Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </b>
 
 <h3>🐍 Python Projects</h3>
 
