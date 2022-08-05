@@ -1,12 +1,15 @@
 <h1>Hi, I'm Alejandro! <br/><a href="https://github.com/a13jndro"> Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </a>
 
-<h2>💻 Software Development Projects:</h2>
+<h2>💻 Software Development Projects</h2>
 
-- <b>Data Analysis Project Class Project:</b>
-  - [Clasify Music Genre using SPotipy](https://github.com/a13jndro/dataAnalysisProjectC278)
+- [Clasify Music Genre using Spotipy](https://github.com/a13jndro/dataAnalysisProjectC278)
 
-<h2> 🔗 Connect with me: </h2>
+<h2>📃 Certifications</h2>
+  
+- [Python Issued by Wiley Edge](https://www.credly.com/badges/0e7e7ab7-17fb-4289-b5e0-51fbb3f218ed/public_url)
+- [Career Preparation Workshop Issued by CISCO](https://www.credly.com/badges/4721a09c-afcb-40d2-9b99-beb48c165615/public_url)
 
+<h2> 🔗 Connect with me </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
