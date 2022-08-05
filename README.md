@@ -11,7 +11,8 @@
 
 <h2> 🔗 Connect with me </h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 [linkedin]: https://linkedin.com/in/bs-cs-alejandro-m
 [stackoverflow]: https://stackoverflow.com/users/16946785/alejandro-avila
