@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/16946785/alejandro-avila/">
-    <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png"/>
+    <img height="35" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-256.png"/>
 </a>
 
 <!--
