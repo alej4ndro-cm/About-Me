@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alejandro!</h1>
-<b>Computer Science Student | Electrical Engineer | Software Developer </b>
+<b>Computer Science student | Electrical Engineer | aspiring Software Developer</b>
 
 <h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></h3>
 
@@ -18,10 +18,13 @@
     <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
+<a href="https://app.joinhandshake.com/stu/users/31690724">
+    <img height="35" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>
+</a>
+
 <a href="https://stackoverflow.com/users/16946785/alejandro-avila/">
     <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png"/>
 </a>
-
 
 <!--
 **al3jndro/al3jndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
