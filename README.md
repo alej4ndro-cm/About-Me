@@ -1,6 +1,8 @@
 <h1>Hi, I'm Alejandro!</h1>
 <b>Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </b>
 
+<h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></h3>
+
 <h3>🐍 Python Projects</h3>
 
 - [Spotify Database](https://github.com/a13jndro/dataAnalysisProjectC278)
