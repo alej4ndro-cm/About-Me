@@ -22,8 +22,6 @@
     <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png"/>
 </a>
 
-[linkedin]: https://linkedin.com/in/bs-cs-alejandro-m
-[stackoverflow]: https://stackoverflow.com/users/16946785/alejandro-avila
 
 <!--
 **al3jndro/al3jndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
