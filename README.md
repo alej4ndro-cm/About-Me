@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alejandro!</h1>
-<b>Computer Science Student | Electrical Engineer | Software Developer | Data Analyst </b>
+<b>Computer Science Student | Electrical Engineer | Software Developer </b>
 
 <h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></h3>
 
