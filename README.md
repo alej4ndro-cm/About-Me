@@ -14,8 +14,13 @@
 
 <h3> 🔗 Connect with me </h3>
 
-[<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="a13jndro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+<a href="https://www.linkedin.com/in/bs-cs-alejandro-m/">
+    <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+<a href="https://stackoverflow.com/users/16946785/alejandro-avila/">
+    <img height="35" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png"/>
+</a>
 
 [linkedin]: https://linkedin.com/in/bs-cs-alejandro-m
 [stackoverflow]: https://stackoverflow.com/users/16946785/alejandro-avila
