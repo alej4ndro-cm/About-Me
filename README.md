@@ -5,7 +5,7 @@
 
 <h3>🐍 Python Projects</h3>
 
-- [Spotify Database](https://github.com/a13jndro/dataAnalysisProjectC278)
+- [Spotify Database](https://github.com/alej4dro-cm/dataAnalysisProjectC278)
 
 <h3>📃 Certifications</h3>
   
@@ -28,7 +28,7 @@
 </a>
 
 <!--
-**al3jndro/alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alej4dro-cm/alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
 Here are some ideas to get you started:
