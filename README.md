@@ -11,7 +11,7 @@
   
 - [Python Issued by Wiley Edge](https://www.credly.com/badges/0e7e7ab7-17fb-4289-b5e0-51fbb3f218ed/public_url)
 - [Career Preparation Workshop Issued by CISCO](https://www.credly.com/badges/4721a09c-afcb-40d2-9b99-beb48c165615/public_url)
-- [Cohesity Platform Foundations Issued by Cohesity] (https://www.credly.com/badges/aad677ac-a981-4257-950a-3079ba9819a9/public_url)
+- [Cohesity Platform Foundations Issued by Cohesity](https://www.credly.com/badges/aad677ac-a981-4257-950a-3079ba9819a9/public_url)
 
 <h3> 🔗 Connect with me </h3>
 
