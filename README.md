@@ -28,7 +28,7 @@
 </a>
 
 <!--
-**alej4dro-cm/alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alej4dro-cm/alej4dro-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
 Here are some ideas to get you started:
