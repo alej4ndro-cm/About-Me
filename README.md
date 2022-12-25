@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alejandro!</h1>
-<b>Software Developer | Electrical Engineer</b>
+<b>Software Engineer</b>
 
 <h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/></h3>
 
@@ -28,7 +28,7 @@
 </a>
 
 <!--
-**al3jndro/al3jndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**al3jndro/alejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
 Here are some ideas to get you started:
