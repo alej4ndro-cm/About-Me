@@ -5,12 +5,13 @@
 
 <h3>🐍 Python Projects</h3>
 
-- [Spotify Database](https://github.com/alej4dro-cm/dataAnalysisProjectC278)
+- [Spotify Database](https://github.com/alej4ndro-cm/dataAnalysisProjectC278)
 
 <h3>📃 Certifications</h3>
   
 - [Python Issued by Wiley Edge](https://www.credly.com/badges/0e7e7ab7-17fb-4289-b5e0-51fbb3f218ed/public_url)
 - [Career Preparation Workshop Issued by CISCO](https://www.credly.com/badges/4721a09c-afcb-40d2-9b99-beb48c165615/public_url)
+- [Cohesity Platform Foundations Issued by Cohesity] (https://www.credly.com/badges/aad677ac-a981-4257-950a-3079ba9819a9/public_url)
 
 <h3> 🔗 Connect with me </h3>
 
@@ -23,12 +24,12 @@
     <img height="35" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>
 </a>
 
-<a href="https://stackoverflow.com/users/16946785/alejandro-avila/">
+<a href="https://stackoverflow.com/users/16946785/alejandro-munoz/">
     <img height="35" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-256.png"/>
 </a>
 
 <!--
-**alej4dro-cm/alej4dro-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alej4ndro-cm/alej4ndro-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
 Here are some ideas to get you started:
