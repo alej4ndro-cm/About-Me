@@ -25,7 +25,8 @@
 </a>
 
 <a href="https://stackoverflow.com/users/16946785/alejandro-munoz/">
-    <img height="35" src="https://www.iconfinder.com/icons/1298710/stack_overflow_icon.png"/>
+    <img height="35" src="https://user-images.githubusercontent.com/90579820/216894913-8199707b-58f0-4b54-af0d-5291055d1364.png"/>
+
 </a>
 
 <!--
