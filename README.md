@@ -23,7 +23,7 @@
 <a href="https://app.joinhandshake.com/stu/users/31690724">
     <img height="35" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>
 </a>
-
+</br>
 <a href="https://stackoverflow.com/users/16946785/alejandro-munoz/">
     <img height="35" src="https://https://www.iconfinder.com/icons/1298710/stack_overflow_icon.png"/>
 </a>
