@@ -1,8 +1,8 @@
 # Hi, I'm Alejandro! 👋
 
-**Software Engineer**
+### Software Engineer ###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=default)
 
 ## 🐍 Python Projects
 
