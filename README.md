@@ -6,7 +6,7 @@
 
 ## 🐍 Python Projects
 
-- [Music-Insights](https://github.com/alej4ndro-cm/dataAnalysisProjectC278)
+- [Music-Insights](https://github.com/alej4ndro-cm/Music-Insights)
 
 ## 📃 Certifications
 
