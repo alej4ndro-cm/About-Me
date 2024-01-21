@@ -37,9 +37,9 @@
 
 ## 🔗 Connect with me
 
-[<img alt="LinkedIn" height="35" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>](https://www.linkedin.com/in/bs-cs-alejandro-m/)
-[<img alt="Handshake" height="35" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>](https://app.joinhandshake.com/stu/users/31690724)
-[<img alt="StackOverflow" height="35" src="https://user-images.githubusercontent.com/90579820/216894913-8199707b-58f0-4b54-af0d-5291055d1364.png"/>](https://stackoverflow.com/users/16946785/alejandro-munoz/)
+[<img alt="LinkedIn" height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>](https://www.linkedin.com/in/bs-cs-alejandro-m/)
+[<img alt="Handshake" height="25" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>](https://app.joinhandshake.com/stu/users/31690724)
+[<img alt="StackOverflow" height="25" src="https://user-images.githubusercontent.com/90579820/216894913-8199707b-58f0-4b54-af0d-5291055d1364.png"/>](https://stackoverflow.com/users/16946785/alejandro-munoz/)
 
 <!--
 **alej4ndro-cm/about-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
