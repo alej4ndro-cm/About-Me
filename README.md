@@ -5,7 +5,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="527" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&layout=compact&theme=default" width="400" height="250">
 
 ## 💡Skills
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -13,14 +15,13 @@
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-brightgreen)
-![Algorithms](https://img.shields.io/badge/-Algorithms-yellowgreen)
 ![Git Bash](https://img.shields.io/badge/-Git%20Bash-lightgrey?style=flat&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-brightgreen)
+![Algorithms](https://img.shields.io/badge/-Algorithms-yellowgreen)
 
 ## <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="18" height="18"> Python Projects
 
