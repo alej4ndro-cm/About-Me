@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro!
 
-### Aspiring Software Engineer | Passionate about AI, Data Engineering and software development | Eager to Explore Opportunities in Software Development & IT ###
+### Junior SRE | Focused on Python, Troubleshooting & REST APIs ###
 
 <img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="527" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&layout=compact&theme=default" width="400" height="250">
 
