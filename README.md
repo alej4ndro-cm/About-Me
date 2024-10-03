@@ -26,8 +26,8 @@
 
 ## <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="18" height="18"> Python Projects
 
-- [Music-Insights](https://github.com/alej4ndro-cm/Music-Insights)
-- [Reddit-Poster](https://github.com/alej4ndro-cm/Reddit-Poster)
+- [Music-Insights](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Music-Insights)
+- [Reddit-Poster](https://github.com/alej4ndro-cm//Python-Projects/tree/main/Reddit-Poster)
 
 ## 📃 Certifications
 
