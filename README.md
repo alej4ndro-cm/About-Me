@@ -28,6 +28,7 @@
 
 - [Music-Insights](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Music-Insights)
 - [Reddit-Poster](https://github.com/alej4ndro-cm//Python-Projects/tree/main/Reddit-Poster)
+- [Interactive Volcano Web Map](https://github.com/alej4ndro-cm/Python-Projects/tree/main/interactiveVolcanoWebMap)
 
 ## 📃 Certifications
 
