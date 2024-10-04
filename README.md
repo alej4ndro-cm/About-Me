@@ -2,7 +2,7 @@
 
 ### Seeking Opportunities in Web Development or DevOps | HTML5 | CSS | JavaScript | Python | AWS | REST APIs | MySQL | Cassandra | Open to Internships.
 
-<img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="527" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&layout=compact&theme=default" width="400" height="250">
+<img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="500" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&hide=html&layout=compact&theme=default" width="500" height="250">
 
 ## 💡Skills
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
