@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro!
 
-### Seeking Opportunities in Web Development or DevOps | HTML5 | CSS | JavaScript | Python | AWS | REST APIs | MySQL | Cassandra | Open to Internships.
+### Senior CS Student @FAU | Aspiring Web Developer | Specializing in Full Stack Development with Python, JavaScript, HTML5, CSS, AWS | Open to Web Dev Roles & Projects
 
 <img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="500" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&hide=html&layout=compact&theme=default" width="500" height="250">
 
