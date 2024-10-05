@@ -7,6 +7,7 @@
 ## 💡Skills
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -28,7 +29,12 @@
 
 - [Music-Insights](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Music-Insights)
 - [Reddit-Poster](https://github.com/alej4ndro-cm//Python-Projects/tree/main/Reddit-Poster)
-- [Interactive Volcano Web Map](https://github.com/alej4ndro-cm/Python-Projects/tree/main/interactiveVolcanoWebMap)
+- [Interactive Volcano Web Map](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Interactive_Volcano_Web_Map)
+
+## <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="18" height="18"> <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="18" height="18"> <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="18" height="18"> Vanilla Web Development Projects
+
+- [Form Validator](https://github.com/alej4ndro-cm/WebVanillaProjects/tree/main/form-validator)
+- [Movie Seat Booking](https://github.com/alej4ndro-cm/WebVanillaProjects/tree/main/movie-seat-booking)
 
 ## 📃 Certifications
 
@@ -41,20 +47,10 @@
 
 [<img alt="LinkedIn" height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>](https://www.linkedin.com/in/bs-cs-alejandro-m/)
 [<img alt="Handshake" height="25" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>](https://app.joinhandshake.com/stu/users/31690724)
-[<img alt="StackOverflow" height="25" src="https://user-images.githubusercontent.com/90579820/216894913-8199707b-58f0-4b54-af0d-5291055d1364.png"/>](https://stackoverflow.com/users/16946785/alejandro-munoz/)
+[<img alt="Medium" height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png"/>](https://medium.com/@yourusername)
+
 
 <!--
 **alej4ndro-cm/about-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
