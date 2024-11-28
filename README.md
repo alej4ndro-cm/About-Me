@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro!
 
-### Senior CS Student @FAU | Specializing in Full Stack Development with Python, JavaScript, HTML5, CSS, AWS.
+### CS Student @ FAU 25’ | ex-SRE @ JMPC | Python | Node.js | AWS | REST APIs | Jenkins | Cassandra
 
 <img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="500" height="250"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&hide=html&layout=compact&theme=default" width="500" height="250">
 
