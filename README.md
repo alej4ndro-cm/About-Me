@@ -25,16 +25,21 @@
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-brightgreen)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-yellowgreen)
 
-## <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="18" height="18"> Python Projects
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python Logo" width="24" height="24"> Python Projects
 
 - [Music-Insights](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Music-Insights)
 - [Reddit-Poster](https://github.com/alej4ndro-cm//Python-Projects/tree/main/Reddit-Poster)
 - [Interactive Volcano Web Map](https://github.com/alej4ndro-cm/Python-Projects/tree/main/Interactive_Volcano_Web_Map)
 
-## <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="18" height="18"> <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="18" height="18"> <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="18" height="18"> Vanilla Web Development Projects
+## 🌐 Web Development Projects
 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="18" height="18"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="20" height="20"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="20" height="20"> Vanilla Web Development
 - [Form Validator](https://github.com/alej4ndro-cm/WebVanillaProjects/tree/main/form-validator)
 - [Movie Seat Booking](https://github.com/alej4ndro-cm/WebVanillaProjects/tree/main/movie-seat-booking)
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="20" height="20"> Bootstrap
+- ...In Progress
+
 
 ## 📃 Certifications
 
@@ -49,8 +54,3 @@
 [<img alt="Handshake" height="25" src="https://handshake-production-cdn.joinhandshake.com/apple-touch-icon.png"/>](https://app.joinhandshake.com/stu/users/31690724)
 [<img alt="Medium" height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png"/>](https://medium.com/@yourusername)
 
-
-<!--
-**alej4ndro-cm/about-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
