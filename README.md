@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro!
 
-### Sosftware Engineer | FAU 25’
+### Software Engineer | FAU 25’
 
 <img src="https://github-readme-stats.vercel.app/api?username=alej4ndro-cm&show_icons=true&theme=default" width="450" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alej4ndro-cm&hide=html&layout=compact&theme=default" width="450" height="200">
 
