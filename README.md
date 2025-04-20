@@ -4,7 +4,7 @@
 [![Handshake](https://img.shields.io/badge/Handshake-FDBA1E?style=for-the-badge&logo=handshake&logoColor=black)](https://app.joinhandshake.com/stu/users/31690724)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 
-## 👨‍💻 SWE | FAU 2025
+## 👨‍💻 Software Engineer | FAU 2025
 
 > Passionate about building scalable applications and exploring AI technologies
 
