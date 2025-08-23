@@ -1,0 +1,72 @@
+name: Daily activity
+on:
+  schedule:
+    - cron: "7 14 * * *"   # daily at 14:07 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    env:
+      BRANCH: ${{ github.event.repository.default_branch }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+
+      - name: Jitter
+        run: sleep $((RANDOM % 300))
+
+      - name: Prepare commit message pool
+        id: pool
+        shell: bash
+        run: |
+          msgs=(
+            "feat: add user profile page"
+            # ← Replace this list with your big pool later
+          )
+          echo "MSG=${msgs[$RANDOM % ${#msgs[@]}]}" >> $GITHUB_OUTPUT
+
+      - name: Make tiny realistic change sometimes
+        id: change
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ $((RANDOM % 10)) -lt 6 ]; then
+            if [ -f README.md ]; then
+              if grep -q "last-updated:" README.md; then
+                sed -i "s/last-updated: .*/last-updated: $(date -u +"%Y-%m-%d %H:%M:%SZ")/" README.md
+              else
+                printf "\n<!-- maintenance: last-updated: %s -->\n" "$(date -u +"%Y-%m-%d %H:%M:%SZ")" >> README.md
+              fi
+              git add README.md
+            else
+              mkdir -p docs
+              printf "Note updated %s\n" "$(date -u +"%Y-%m-%d %H:%M:%SZ")" >> docs/notes.md
+              git add docs/notes.md
+            fi
+            echo "EMPTY=false" >> $GITHUB_OUTPUT
+          else
+            echo "EMPTY=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit
+        shell: bash
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ "${{ steps.change.outputs.EMPTY }}" = "true" ]; then
+            git commit --allow-empty -m "${{ steps.pool.outputs.MSG }}"
+          else
+            git diff --cached --quiet && git commit --allow-empty -m "${{ steps.pool.outputs.MSG }}" || git commit -m "${{ steps.pool.outputs.MSG }}"
+          fi
+
+      - name: Push
+        run: |
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${BRANCH}"
