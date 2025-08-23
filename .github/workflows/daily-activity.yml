@@ -1,7 +1,7 @@
 name: Daily activity
 on:
   schedule:
-    - cron: "7 14 * * *"   # daily at 14:07 UTC
+    - cron: "25 0 * * *" 
   workflow_dispatch:
 
 permissions:
